@@ -194,7 +194,7 @@
   {"country_name": "United Kingdom", "country_code": "GB", "iso3_code": "GBR"},
   {"country_name": "UK", "country_code": "GB", "iso3_code": "GBR"},
   {"country_name": "United States", "country_code": "US", "iso3_code": "USA"},
-  {"country_name": "USA", "country_code": "US", "USA"},
+  {"country_name": "USA", "country_code": "US", "iso3_code": "USA"},
   {"country_name": "United States of America", "country_code": "US", "iso3_code": "USA"},
   {"country_name": "Uruguay", "country_code": "UY", "iso3_code": "URY"},
   {"country_name": "Uzbekistan", "country_code": "UZ", "iso3_code": "UZB"},
@@ -202,4 +202,7 @@
   {"country_name": "Vatican City", "country_code": "VA", "iso3_code": "VAT"},
   {"country_name": "Venezuela", "country_code": "VE", "iso3_code": "VEN"},
   {"country_name": "Vietnam", "country_code": "VN", "iso3_code": "VNM"},
-  {"country_name": "
+  {"country_name": "Yemen", "country_code": "YE", "iso3_code": "YEM"},
+  {"country_name": "Zambia", "country_code": "ZM", "iso3_code": "ZMB"},
+  {"country_name": "Zimbabwe", "country_code": "ZW", "iso3_code": "ZWE"}
+]
